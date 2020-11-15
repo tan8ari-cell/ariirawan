@@ -1,4 +1,4 @@
-###Hi, there, I'm Ari 👋
+###Hi, there, I'm Ari 👋:grin:
 
 <b>##I'm a Husband, Developer and Teacher!</b>
 
@@ -10,4 +10,4 @@
 
 ![GitHub Logo](/images/sky.jpg)
 
-##do not hesitate to contact me here!
+🔥 ##do not hesitate to contact me here! 📝
