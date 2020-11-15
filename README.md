@@ -1,1 +1,1 @@
-<!doctype HTML></HTML>
+![GitHub Logo](/images/sky.jpg)
