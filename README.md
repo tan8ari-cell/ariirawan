@@ -1,4 +1,4 @@
-###Hi, there, I'm Ari 👋:grin:
+<h3>###Hi, there, I'm Ari 👋</h3>
 
 <b>##I'm a Husband, Developer and Teacher!</b>
 
